@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(39, 41, 43);
+    color: white;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.product{
+    width:70%;
+    background-color: #332f2f;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
